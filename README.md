@@ -17,6 +17,6 @@ The primary goal of MobileNetV2 is to provide a `lightweight and efficient archi
 
 
 > #### Important Note:
-> The provided /data folder contains only the `final transformed data`, to get raw data consider visiting the [following link]((https://github.com/ardamavi/Sign-Language-Digits-Dataset)
+> The provided /data folder contains only the `final transformed data`, to get raw data consider visiting the [following link](https://github.com/ardamavi/Sign-Language-Digits-Dataset)
 
 
