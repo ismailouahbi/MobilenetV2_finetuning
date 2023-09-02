@@ -7,7 +7,7 @@
 The primary goal of MobileNetV2 is to provide a `lightweight and efficient architecture` while still achieving competitive accuracy in various computer vision tasks.
 * 
 ### Why MobileNetV2?
-![MobileNetV1_and_V2.jpeg](https://www.oreilly.com/api/v2/epubs/9781788994590/files/assets/26a9be8a-d10e-444f-b6ea-87f3a962df23.png)
+![MobileNetV1_and_V2.jpeg](https://github.com/ismailouahbi/MobilenetV2_finetuning/blob/main/assets/images/MobileNetV1_and_V2.jpeg?raw=true)
 
 
 
