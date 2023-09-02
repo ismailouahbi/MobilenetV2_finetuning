@@ -14,3 +14,9 @@ The primary goal of MobileNetV2 is to provide a `lightweight and efficient archi
 [Credit](https://www.oreilly.com/library/view/machine-learning-projects/9781788994590/35c3c5b2-3745-47ce-a322-6e9204943efd.xhtml#:~:text=MobileNet%20V2%20is%20mostly%20a%20updated%20version%20of,more%20efficient%20and%20powerful%20in%20terms%20of%20performance)
 
 
+
+
+> #### Important Note:
+> The provided /data folder contains only the `final transformed data`, to get raw data consider visiting the [following link]((https://github.com/ardamavi/Sign-Language-Digits-Dataset)
+
+
